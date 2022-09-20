@@ -1,0 +1,12 @@
+UT1-Actividad 1. Unidades de medida de almacenamiento
+
+Calcula:
+    1. ¿Cuántos bytes son 4217 KiB?
+    2. ¿Y cuántos MiB son 4217 KiB?
+    3. Si una película en formato DivX ocupa 1350 MiB, ¿cuántas películas caben en un DVD que tiene 4,7 GiB de capacidad?
+    4. Cada canción en mp3 ocupa una media de 4217 KiB. Queremos comprarnos un reproductor de mp3 para llevar 100 canciones. Sabemos que hay modelos de 128 MiB, 512 MiB y 1 GiB, cada un más caro que el anterior. Si queremos llevar las 100 canciones y gastamos el mínimo dinero posible, ¿qué modelo nos compramos?
+    5. Nuestro móvil tiene una capacidad de 3,8 MiB. De ellos, 512 KiB están ocupados por los programas propios del móvil. Cada foto que hacemos ocupa 30 KiB. ¿Cuántas fotos caben en el móvil?
+    6. Considerando que un disco musical tiene una media de 12 canciones y una canción mp3 ocupe una media de 3300 kiB, ¿de qué capacidad deberá ser un reproductor mp3 para poder llevar en él hasta 100 discos musicales y gastarnos lo menos posible: 2 GiB, 4 GiB, 8GiB o 16 GiB.
+    7. Una cámara de fotos tiene una tarjeta de memoria de 2 GiB.  Si hacemos fotos a una resolución de 1024 x 768 a color verdadero con 32 bits (es decir, la profundidad de campo) ¿cuántas fotos podremos hacer? 
+NOTA: Tener en cuenta que, para calcular el “peso” de cada foto deberás utilizar la siguiente fórmula: 
+  Capacidad/foto (Bytes) = Resolución x profundidad de campo /8
